@@ -7,7 +7,7 @@
   "dependencies": {
     "eslint": "^3.13.0",
     "eslint-config-devine": "^1.6.1",
-    "next": "^2.0.0-beta.25",
+    "next": "^2.4.0",
     "node-sass": "^4.4.0",
     "raw-loader": "^0.5.1",
     "react": "^15.4.2",
